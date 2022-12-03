@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="PluralsCandidate">
+    <!-- from https://github.com/shadowsocks/shadowsocks-android/blob/master/core/src/main/res/values/strings.xml -->
+    <string name="clash_notification_content" translatable="false">"%1$s↑\t%2$s↓"</string>
+
+    <string name="clash_service_status_channel">وضعیت Clash</string>
+    <string name="profile_service_status">وضعیت خدمات پروفایل</string>
+    <string name="profile_process_status">وضعیت پردازش پروفایل</string>
+    <string name="profile_process_result">نتیجه فرآیند پروفایل</string>
+    <string name="update_successfully">با موفقیت بروزرسانی شد</string>
+    <string name="update_failure">بروزرسانی با شکست روبروشد</string>
+    <string name="format_update_complete">بروزرسانی %s کامل شد</string>
+    <string name="format_update_failure">بروزرسانی %1$s: %2$s</string>
+    <string name="running">درحال اجرا</string>
+    <string name="loading">در حال بارگذاری</string>
+    <string name="clash_for_android">clash برای اندروید</string>
+    <string name="profiles_and_providers">پروفایل ها و ارائه دهندگان</string>
+    <string name="configuration_yaml">پیکربندی.yaml</string>
+    <string name="provider_files">فایل های ارائه دهنده</string>
+    <string name="profile_updater">بروزرسان پروفایل</string>
+    <string name="profile_updating">بروزرسانی پروفایل</string>
+</resources>
